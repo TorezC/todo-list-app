@@ -24,7 +24,7 @@ Before running the app, make sure you have:
 
 ```bash
 git clone https://github.com/TorezC/todo-list-app.git/
-cd rn-todo-app
+cd todo
 ```
 
 ### 2. Install dependencies
